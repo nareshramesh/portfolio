@@ -1,0 +1,14 @@
+body{
+   
+    font-family:'Poppins',sans-serif;
+}
+.banner{
+    background-image: url(../img/com4.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 250px;
+}
+.skill{
+    padding: 80px 0;
+    
+}
