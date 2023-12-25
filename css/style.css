@@ -6,7 +6,7 @@ body{
     background-image: url(../img/3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    padding: 250px;
+    padding: 250px 0;
 }
 .skill{
     padding: 80px 0;
